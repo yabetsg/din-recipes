@@ -1,1 +1,1 @@
-# din-recipes
+The curent project is building simple website that will consist of a main index page which will have links to a few recipes. After completion I will have demonstrated the use of links and images on a website
